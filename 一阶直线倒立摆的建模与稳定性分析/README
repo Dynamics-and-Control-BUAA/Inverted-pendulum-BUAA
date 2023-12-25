@@ -6,4 +6,4 @@
 
 二、Simulink仿真 ①IP_order1_simscape.slx ②IP_order1_simscape_pre.slx（matlab低版本） 使用simulink搭建实体模型，再观察分析平衡点的稳定性，留有控制接口便于进一步的控制实验。
 
-三、④初始偏离平衡点无控制输入的自由运动(gif_name_free_1.gif)
+三、初始偏离平衡点无控制输入的自由运动(gif_name_free_1.gif)
