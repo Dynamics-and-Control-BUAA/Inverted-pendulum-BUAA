@@ -9,4 +9,4 @@
 ②pid_order1_simscape.slx 【pid_order1_simscape_pre.slx（matlab低版本）】 使用simulink搭建实体模型，PID控制
 IP_order1_math_model.slx 【IP_order1_math_model_pre.slx（matlab低版本）】 传递函数搭建的动力学模型、极点配置、LQR、PID控制
 
-三、初始偏离平衡点无控制输入的自由运动(gif_name_free_1.gif)
+三、极点配置(gif_name_feedback_1.gif)、(gif_name_lqr_1.gif)、MPC(gif_name_mpc_1.gif)
